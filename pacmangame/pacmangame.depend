@@ -1,0 +1,762 @@
+# depslib dependency file v1.0
+1460358892 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/blue_ghost.cpp
+	"blue_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460320943 /home/kesh-m/Documents/Comp 315 pracs/pacmangame/blue_ghost.h
+
+1460368631 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/Camera.cpp
+	"Camera.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1460368390 /home/kesh-m/Documents/Comp 315 pracs/pacmangame/Camera.h
+	<math.h>
+
+1460736020 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/main.cpp
+	<iostream>
+	<GL/glut.h>
+	<GL/glu.h>
+	"Camera.h"
+	"maze.h"
+	"pathtraversal.h"
+	"score.h"
+
+1460642246 /home/kesh-m/Documents/Comp 315 pracs/pacmangame/red_ghost.h
+
+1460320982 /home/kesh-m/Documents/Comp 315 pracs/pacmangame/orange_ghost.h
+
+1460321118 /home/kesh-m/Documents/Comp 315 pracs/pacmangame/pink_ghost.h
+
+1460321015 /home/kesh-m/Documents/Comp 315 pracs/pacmangame/pacman.h
+
+1460359634 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/orange_ghost.cpp
+	"orange_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460321002 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/pacman.cpp
+	"pacman.h"
+	<GL/glut.h>
+
+1460359212 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/pink_ghost.cpp
+	"pink_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460642277 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/red_ghost.cpp
+	"red_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460358696 /home/kesh-m/Documents/Comp 315 pracs/pacmangame/objloader.h
+	<stdio.h>
+	<string>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cstdlib>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	<cstdio>
+	<iostream>
+	<cstring>
+
+1460358302 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/objloader.cpp
+	"objloader.h"
+
+1460300528 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/node.cpp
+	"node.h"
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	"pathtraversal.h"
+
+1460300500 /home/kesh-m/Documents/Comp 315 pracs/pacmangame/node.h
+	"pathtraversal.h"
+
+1460312414 /home/kesh-m/Documents/Comp 315 pracs/pacmangame/pathtraversal.h
+	<vector>
+	<string>
+
+1460367037 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/pathtraversal.cpp
+	"pathtraversal.h"
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	"node.h"
+
+1460735857 /home/kesh-m/Documents/Comp 315 pracs/pacmangame/maze.h
+	"pacman.h"
+
+1460735966 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/maze.cpp
+	"maze.h"
+	"pacman.h"
+	<GL/glut.h>
+	<GL/glu.h>
+	"blue_ghost.h"
+	"red_ghost.h"
+	"orange_ghost.h"
+	"pink_ghost.h"
+
+1460662260 /home/kesh-m/Documents/Comp 315 pracs/pacmangame/score.h
+
+1460733102 source:/home/kesh-m/Documents/Comp 315 pracs/pacmangame/score.cpp
+	"score.h"
+	<GL/glut.h>
+	<GL/glu.h>
+	<string.h>
+
+1460358892 source:/home/royeyono/Documents/Final PacMan/pacmangame/blue_ghost.cpp
+	"blue_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460320944 /home/royeyono/Documents/Final PacMan/pacmangame/blue_ghost.h
+
+1460358696 /home/royeyono/Documents/Final PacMan/pacmangame/objloader.h
+	<stdio.h>
+	<string>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cstdlib>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	<cstdio>
+	<iostream>
+	<cstring>
+
+1460368632 source:/home/royeyono/Documents/Final PacMan/pacmangame/Camera.cpp
+	"Camera.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1460368390 /home/royeyono/Documents/Final PacMan/pacmangame/Camera.h
+	<math.h>
+
+1462257763 source:/home/royeyono/Documents/Final PacMan/pacmangame/main.cpp
+	<iostream>
+	<GL/glut.h>
+	<GL/glu.h>
+	"Camera.h"
+	"maze.h"
+	"pathtraversal.h"
+	"score.h"
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+
+1462137336 /home/royeyono/Documents/Final PacMan/pacmangame/maze.h
+	"pacman.h"
+
+1460321016 /home/royeyono/Documents/Final PacMan/pacmangame/pacman.h
+
+1460312414 /home/royeyono/Documents/Final PacMan/pacmangame/pathtraversal.h
+	<vector>
+	<string>
+
+1460662260 /home/royeyono/Documents/Final PacMan/pacmangame/score.h
+
+1462259442 source:/home/royeyono/Documents/Final PacMan/pacmangame/maze.cpp
+	"maze.h"
+	"pacman.h"
+	<GL/glut.h>
+	<GL/glu.h>
+	"blue_ghost.h"
+	"red_ghost.h"
+	"orange_ghost.h"
+	"pink_ghost.h"
+	"wall.h"
+
+1460642246 /home/royeyono/Documents/Final PacMan/pacmangame/red_ghost.h
+
+1460320982 /home/royeyono/Documents/Final PacMan/pacmangame/orange_ghost.h
+
+1460321118 /home/royeyono/Documents/Final PacMan/pacmangame/pink_ghost.h
+
+1460300528 source:/home/royeyono/Documents/Final PacMan/pacmangame/node.cpp
+	"node.h"
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	"pathtraversal.h"
+
+1460300500 /home/royeyono/Documents/Final PacMan/pacmangame/node.h
+	"pathtraversal.h"
+
+1462259260 source:/home/royeyono/Documents/Final PacMan/pacmangame/objloader.cpp
+	"objloader.h"
+	"imageloader.h"
+
+1460359634 source:/home/royeyono/Documents/Final PacMan/pacmangame/orange_ghost.cpp
+	"orange_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460321002 source:/home/royeyono/Documents/Final PacMan/pacmangame/pacman.cpp
+	"pacman.h"
+	<GL/glut.h>
+
+1461049076 source:/home/royeyono/Documents/Final PacMan/pacmangame/pathtraversal.cpp
+	"pathtraversal.h"
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	"node.h"
+
+1460359212 source:/home/royeyono/Documents/Final PacMan/pacmangame/pink_ghost.cpp
+	"pink_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460642278 source:/home/royeyono/Documents/Final PacMan/pacmangame/red_ghost.cpp
+	"red_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460733102 source:/home/royeyono/Documents/Final PacMan/pacmangame/score.cpp
+	"score.h"
+	<GL/glut.h>
+	<GL/glu.h>
+	<string.h>
+
+1462258260 source:/home/royeyono/Documents/Final PacMan/pacmangame/imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1462258294 /home/royeyono/Documents/Final PacMan/pacmangame/imageloader.h
+
+1462258912 /home/royeyono/Documents/Final PacMan/pacmangame/wall.h
+
+1462259115 source:/home/royeyono/Documents/Final PacMan/pacmangame/wall.cpp
+	"wall.h"
+	"objloader.h"
+
+1460358892 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/blue_ghost.cpp
+	"blue_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460320944 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/blue_ghost.h
+
+1460358696 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/objloader.h
+	<stdio.h>
+	<string>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cstdlib>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	<cstdio>
+	<iostream>
+	<cstring>
+
+1460368632 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/Camera.cpp
+	"Camera.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1460368390 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/Camera.h
+	<math.h>
+
+1462258260 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1462258294 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/imageloader.h
+
+1462272022 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/maze.cpp
+	"maze.h"
+	"pacman.h"
+	<GL/glut.h>
+	<GL/glu.h>
+	"blue_ghost.h"
+	"red_ghost.h"
+	"orange_ghost.h"
+	"pink_ghost.h"
+	"wall.h"
+	"objloader.h"
+
+1462137336 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/maze.h
+	"pacman.h"
+
+1460321016 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/pacman.h
+
+1460642246 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/red_ghost.h
+
+1460320982 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/orange_ghost.h
+
+1460321118 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/pink_ghost.h
+
+1462269357 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/wall.h
+
+1460300528 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/node.cpp
+	"node.h"
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	"pathtraversal.h"
+
+1460300500 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/node.h
+	"pathtraversal.h"
+
+1460312414 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/pathtraversal.h
+	<vector>
+	<string>
+
+1462259260 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/objloader.cpp
+	"objloader.h"
+	"imageloader.h"
+
+1460359634 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/orange_ghost.cpp
+	"orange_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460321002 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/pacman.cpp
+	"pacman.h"
+	<GL/glut.h>
+
+1461049076 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/pathtraversal.cpp
+	"pathtraversal.h"
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	"node.h"
+
+1460359212 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/pink_ghost.cpp
+	"pink_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460642278 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/red_ghost.cpp
+	"red_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1462269588 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/wall.cpp
+	"wall.h"
+	"objloader.h"
+
+1462273814 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/main.cpp
+	<iostream>
+	<GL/glut.h>
+	<GL/glu.h>
+	"Camera.h"
+	"maze.h"
+	"pathtraversal.h"
+	"score.h"
+	"sound.h"
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+
+1462267618 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/score.h
+
+1462267777 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/score.cpp
+	"score.h"
+	<GL/glut.h>
+	<GL/glu.h>
+	<string.h>
+	<strstream>
+	<sstream>
+	<stdio.h>
+
+1462267915 /home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/sound.h
+
+1462267884 source:/home/kesh-m/Documents/Comp 315 pracs/Final PacMan/pacmangame/sound.cpp
+	"sound.h"
+	<SFML/Audio.hpp>
+	<iostream>
+
+1460358892 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/blue_ghost.cpp
+	"blue_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460320944 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/blue_ghost.h
+
+1460358696 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/objloader.h
+	<stdio.h>
+	<string>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cstdlib>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	<cstdio>
+	<iostream>
+	<cstring>
+
+1460368632 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/Camera.cpp
+	"Camera.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1460368390 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/Camera.h
+	<math.h>
+
+1462258260 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1462258294 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/imageloader.h
+
+1462827566 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/main.cpp
+	<iostream>
+	<GL/glut.h>
+	<GL/glu.h>
+	"Camera.h"
+	"maze.h"
+	"pathtraversal.h"
+	"score.h"
+	"sound.h"
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<ctime>
+	<cerrno>
+	<unistd.h>
+	<stdlib.h>
+	<time.h>
+
+1462788056 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/maze.h
+	"pacman.h"
+
+1460321016 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/pacman.h
+
+1462740418 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/pathtraversal.h
+	<vector>
+	<string>
+
+1462267618 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/score.h
+
+1462789650 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/sound.h
+	<SFML/Audio.hpp>
+
+1462825181 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/maze.cpp
+	"maze.h"
+	"pacman.h"
+	<GL/glut.h>
+	<GL/glu.h>
+	"blue_ghost.h"
+	"red_ghost.h"
+	"orange_ghost.h"
+	"pink_ghost.h"
+	"wall.h"
+	"objloader.h"
+	"sound.h"
+
+1460642246 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/red_ghost.h
+
+1460320982 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/orange_ghost.h
+
+1460321118 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/pink_ghost.h
+
+1462269358 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/wall.h
+
+1460300528 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/node.cpp
+	"node.h"
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	"pathtraversal.h"
+
+1460300500 /home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/node.h
+	"pathtraversal.h"
+
+1462259260 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/objloader.cpp
+	"objloader.h"
+	"imageloader.h"
+
+1460359634 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/orange_ghost.cpp
+	"orange_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460321002 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/pacman.cpp
+	"pacman.h"
+	<GL/glut.h>
+
+1462740354 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/pathtraversal.cpp
+	"pathtraversal.h"
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	"node.h"
+
+1460359212 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/pink_ghost.cpp
+	"pink_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460642278 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/red_ghost.cpp
+	"red_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1462794554 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/score.cpp
+	"score.h"
+	<GL/glut.h>
+	<GL/glu.h>
+	<string.h>
+	<strstream>
+	<sstream>
+	<stdio.h>
+
+1462789628 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/sound.cpp
+	"sound.h"
+	<SFML/Audio.hpp>
+	<iostream>
+	"maze.h"
+
+1462269588 source:/home/royeyono/Desktop/UKZN 3rd Year/Final PacMan/pacmangame/wall.cpp
+	"wall.h"
+	"objloader.h"
+
+1462866732 source:/home/royeyono/Music/Final PacMan/pacmangame/blue_ghost.cpp
+	"blue_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1462867356 /home/royeyono/Music/Final PacMan/pacmangame/blue_ghost.h
+
+1460358696 /home/royeyono/Music/Final PacMan/pacmangame/objloader.h
+	<stdio.h>
+	<string>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cstdlib>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	<cstdio>
+	<iostream>
+	<cstring>
+
+1462866732 source:/home/royeyono/Music/Final PacMan/pacmangame/Camera.cpp
+	"Camera.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1462868232 /home/royeyono/Music/Final PacMan/pacmangame/Camera.h
+	<math.h>
+
+1462258260 source:/home/royeyono/Music/Final PacMan/pacmangame/imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1462258294 /home/royeyono/Music/Final PacMan/pacmangame/imageloader.h
+
+1462869720 source:/home/royeyono/Music/Final PacMan/pacmangame/maze.cpp
+	"maze.h"
+	"pacman.h"
+	<GL/glut.h>
+	<GL/glu.h>
+	"blue_ghost.h"
+	"red_ghost.h"
+	"orange_ghost.h"
+	"pink_ghost.h"
+	"wall.h"
+	"objloader.h"
+	"sound.h"
+
+1462868739 /home/royeyono/Music/Final PacMan/pacmangame/maze.h
+	"pacman.h"
+
+1460321016 /home/royeyono/Music/Final PacMan/pacmangame/pacman.h
+
+1462868204 /home/royeyono/Music/Final PacMan/pacmangame/red_ghost.h
+
+1462868204 /home/royeyono/Music/Final PacMan/pacmangame/orange_ghost.h
+
+1462868204 /home/royeyono/Music/Final PacMan/pacmangame/pink_ghost.h
+
+1462269358 /home/royeyono/Music/Final PacMan/pacmangame/wall.h
+
+1462789650 /home/royeyono/Music/Final PacMan/pacmangame/sound.h
+	<SFML/Audio.hpp>
+
+1460300528 source:/home/royeyono/Music/Final PacMan/pacmangame/node.cpp
+	"node.h"
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	"pathtraversal.h"
+
+1460300500 /home/royeyono/Music/Final PacMan/pacmangame/node.h
+	"pathtraversal.h"
+
+1462740418 /home/royeyono/Music/Final PacMan/pacmangame/pathtraversal.h
+	<vector>
+	<string>
+
+1462259260 source:/home/royeyono/Music/Final PacMan/pacmangame/objloader.cpp
+	"objloader.h"
+	"imageloader.h"
+
+1462870164 source:/home/royeyono/Music/Final PacMan/pacmangame/orange_ghost.cpp
+	"orange_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1460321002 source:/home/royeyono/Music/Final PacMan/pacmangame/pacman.cpp
+	"pacman.h"
+	<GL/glut.h>
+
+1462740354 source:/home/royeyono/Music/Final PacMan/pacmangame/pathtraversal.cpp
+	"pathtraversal.h"
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	"node.h"
+
+1462867305 source:/home/royeyono/Music/Final PacMan/pacmangame/pink_ghost.cpp
+	"pink_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1462869720 source:/home/royeyono/Music/Final PacMan/pacmangame/red_ghost.cpp
+	"red_ghost.h"
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"objloader.h"
+
+1462865158 source:/home/royeyono/Music/Final PacMan/pacmangame/score.cpp
+	"score.h"
+	<GL/glut.h>
+	<GL/glu.h>
+	<string.h>
+	<strstream>
+	<sstream>
+	<stdio.h>
+
+1462267618 /home/royeyono/Music/Final PacMan/pacmangame/score.h
+
+1462789628 source:/home/royeyono/Music/Final PacMan/pacmangame/sound.cpp
+	"sound.h"
+	<SFML/Audio.hpp>
+	<iostream>
+	"maze.h"
+
+1462269588 source:/home/royeyono/Music/Final PacMan/pacmangame/wall.cpp
+	"wall.h"
+	"objloader.h"
+
+1462870756 source:/home/royeyono/Music/Final PacMan/pacmangame/main.cpp
+	<iostream>
+	<GL/glut.h>
+	<GL/glu.h>
+	"Camera.h"
+	"maze.h"
+	"pathtraversal.h"
+	"score.h"
+	"sound.h"
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<ctime>
+	<cerrno>
+	<unistd.h>
+	<stdlib.h>
+	<time.h>
+	"objloader.h"
+
